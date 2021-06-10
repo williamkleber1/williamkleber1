@@ -17,7 +17,7 @@ I am William Kleber , I'm an Computer Engineering student at UFAL - Universidade
         <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=williamkleber1&count_private=true&show_icons=true&theme=react">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamkleber1&bg_color=20232a&title_color=61dafb&icon_color=a960ff&text_color=ffffff" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamkleber1&count_private=true&bg_color=20232a&title_color=61dafb&icon_color=a960ff&text_color=ffffff" />
   </a>
 </p>
 
