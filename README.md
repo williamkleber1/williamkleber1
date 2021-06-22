@@ -21,4 +21,3 @@ I am William Kleber , I'm an Computer Engineering student at UFAL - Universidade
   </a>
 </p>
 
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=williamkleber1&theme=react-dark)
