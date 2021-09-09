@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I am William Kleber , I'm an Computer Engineering student at UFAL - Universidade Federal de Alagoas and I'm a django, django-rest and C developer.
+My name is William Kleber, I'm a software developer and undergraduate student of Computer Engineering at UFAL - Federal University of Alagoas.
 
 
 ## Contact with me
