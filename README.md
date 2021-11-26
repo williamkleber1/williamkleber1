@@ -26,7 +26,7 @@ My name is William Kleber, I'm a software developer and undergraduate student of
 ![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=c%2B%2B&&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=C&logoColor=white&color=2bbc8a)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
